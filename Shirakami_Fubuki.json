@@ -2,7 +2,8 @@
     "manifest": {
         "name": "FBK-Theme",
         "version": "1.1.0",
-        "author": "nekorin727"
+        "author": "nekorin727",
+        "updater": "https:\/\/raw.githubusercontent.com\/KitsuneTohru\/FBK-Theme\/main\/Shirakami_Fubuki.json" 
     },
     "background": {
         "url": "https:\/\/github.com\/KitsuneTohru\/FBK-Theme/blob\/023096747dd06c6f5999dff4a2097d9fd4eef815\/ShirakamiFubukiBg.jpg",
