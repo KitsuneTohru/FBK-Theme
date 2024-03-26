@@ -9,7 +9,7 @@
         "overlay_alpha": 175
     },
     "fonts": {
-        "*": ""
+        "*": "https:\/\/github.com\/KitsuneTohru\/FBK-Theme\/blob\/9ccaad9269df15ab21b50f0de0587db5e355591b\/PatrickHand-Regular.ttf"
     },
     "simple_colors": {
         "accent": -665190413,
