@@ -1,15 +1,15 @@
 {
     "manifest": {
-        "name": "Shirakami Fubuki ",
+        "name": "FBK-Theme",
         "version": "1.1.0",
         "author": "nekorin727"
     },
     "background": {
-        "url": "https:\/\/i.ibb.co\/g4n522r\/Shirakami-Fubuki-Bg.jpg",
+        "url": "https:\/\/github.com\/KitsuneTohru\/FBK-Theme/blob\/023096747dd06c6f5999dff4a2097d9fd4eef815\/ShirakamiFubukiBg.jpg",
         "overlay_alpha": 175
     },
     "fonts": {
-        "*": "https:\/\/github.com\/KitsuneTohru\/Abandoned_Projects\/blob\/53f5b1bca462f7c75027b4cc9aa17fb1d3920475\/PatrickHand-Regular.ttf"
+        "*": ""
     },
     "simple_colors": {
         "accent": -665190413,
@@ -31,8 +31,4 @@
         "chat_input_button_tint_colors_dark": 1677787105
     },
     "drawable_tints": {},
-    "raws": {
-        "user_join": "https:\/\/cdn.discordapp.com\/attachments\/948615835369472064\/1140138062714773504\/welcome.ogg",
-        "user_leave": "https:\/\/cdn.discordapp.com\/attachments\/948615835369472064\/1140138063071293451\/seeya.wav"
-    }
 }
