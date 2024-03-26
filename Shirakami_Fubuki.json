@@ -1,0 +1,38 @@
+{
+    "manifest": {
+        "name": "Shirakami Fubuki ",
+        "version": "1.1.0",
+        "author": "nekorin727"
+    },
+    "background": {
+        "url": "https:\/\/i.ibb.co\/g4n522r\/Shirakami-Fubuki-Bg.jpg",
+        "overlay_alpha": 175
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/KitsuneTohru\/Abandoned_Projects\/blob\/53f5b1bca462f7c75027b4cc9aa17fb1d3920475\/PatrickHand-Regular.ttf"
+    },
+    "simple_colors": {
+        "accent": -665190413,
+        "background_secondary": 1275068416,
+        "background": 0,
+        "blocked_bg": 1065610239,
+        "input_background": 1258349823,
+        "statusbar": 1064303103,
+        "mention_highlight": -1737162762,
+        "active_channel": -1250820112
+    },
+    "colors": {
+        "abc_search_url_text": -16724737,
+        "abc_search_url_text_normal": -16723969,
+        "abc_search_url_text_pressed": -16723969,
+        "abc_search_url_text_selected": -16723969,
+        "cardview_dark_background": 1459680511,
+        "chat_send_btn_bg_dark": 1711341548,
+        "chat_input_button_tint_colors_dark": 1677787105
+    },
+    "drawable_tints": {},
+    "raws": {
+        "user_join": "https:\/\/cdn.discordapp.com\/attachments\/948615835369472064\/1140138062714773504\/welcome.ogg",
+        "user_leave": "https:\/\/cdn.discordapp.com\/attachments\/948615835369472064\/1140138063071293451\/seeya.wav"
+    }
+}
